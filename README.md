@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Agata's GitHub stats](https://github-readme-stats.vercel.app/api?username=agataporwit&show_icons=true&theme=radical)
 
+![image](https://github.com/agataporwit/agataporwit/blob/main/dino.gif)
